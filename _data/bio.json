@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Qiyan Lin",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://github.com/kisnan/kisnan.github.io/blob/master/images/%20.jpg",
+    "email": "qiyanl@hawaii.edu",
+    "phone": "808-439-4565",
+    "website": "https://kisnan.github.io",
+    "summary": "My name is Qiyan Lin, and I am currently studying MIS in University of Hawaii at Manoa.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -20,29 +20,20 @@
         "username": "mmaluhia",
         "url": "http://github.com/changeme"
       },
-      {
-        "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
+      
+      
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "lumkeiyin",
+        "url": "http://instagram.com/lumkeiyin"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Photography",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        
       ]
     },
     {
@@ -51,7 +42,7 @@
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Computer Science",
       "keywords": [
       ]
     }
