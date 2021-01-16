@@ -1,124 +1,148 @@
-{
-   "basics":{
-      "name":"Qiyan Lin",
-      "label":"Shidler Undergraduate",
-      "picture":"https://github.com/kisnan/kisnan.github.io/blob/master/images/Kisnan.jpg?raw=true",
-      "email":"qiyanl@hawaii.edu",
-      "phone":"808-439-4565",
-      "website":"https://kisnan.github.io",
-      "summary":"My name is Qiyan Lin, and I am currently studying MIS in University of Hawaii at Manoa.",
-      "location":{
-         "address":"",
-         "postalCode":"96822",
-         "city":"Honolulu",
-         "countryCode":"USA",
-         "region":"Hawaii"
-      },
-      "profiles":[
-         {
-            "network":"github",
-            "username":"kisnan",
-            "url":"http://github.com/kisnan"
-         },
-         {
-            "network":"instagram",
-            "username":"lumkeiyin",
-            "url":"http://instagram.com/lumkeiyin"
-         }
-      ]
-   },
-   "interests":[
-      {
-         "name":"Photography",
-         "keywords":[
-            
-         ]
-      },
-      {
-         "name":"Hiking",
-         "keywords":[
-            
-         ]
-      },
-      {
-         "name":"Computer Science",
-         "keywords":[
-            
-         ]
-      }
-   ],
-   "skills":[
-      {
-         "name":"Languages and Frameworks",
-         "level":"",
-         "keywords":[
-            "C",
-            "C++",
-            "Java",
-            "Javascript",
-            "Assembly",
-            "Common Lisp"
-         ]
-      },
-      {
-         "name":"Toolsets/OS",
-         "level":"",
-         "keywords":[
-            "MacOS",
-            "Ubuntu",
-            "Git/GitHub",
-            "g++",
-            "TI LaunchPad"
-         ]
-      }
-   ],
-   "education":[
-      {
-         "institution":"University of Hawaii, Honolulu, HI",
-         "area":"Management Information System (expected Fall,2021)",
-         "studyType":"B.S.",
-         "startDate":"2021-01-13",
-         "endDate":"Present",
-         "gpa":"",
-         "courses":[
-            
-         ]
-      }
-   ],
-   "work":[
-      {
-         "company":"Shabuya, Hawaii",
-         "position":"Server",
-         "website":"",
-         "startDate":"Aug 1st, 2020",
-         "endDate":"Present",
-         "summary":"",
-         "highlights":[
-            ""
-         ]
-      }
-   ],
-   "volunteer":[
-      {
-         "organization":"Center for Renewable Energy and Island Sustainability",
-         "website":"http://manoa.hawaii.edu/reis",
-         "position":"Software Developer",
-         "startDate":"2016-01-01",
-         "endDate":"Present",
-         "summary":"Lead developer for weather sensing project",
-         "highlights":[
-            "Design firmware for distributed weather sensor network",
-            "Maintain custom data collection and storage infrastructure"
-         ]
-      }
-   ],
-   "awards":[
-      
-   ],
-   "references":[
-      {
-         "name":"Available upon request",
-         "reference":""
-      }
-   ]
-}
+array (
+  'basics' => 
+  array (
+    'name' => 'Qiyan Lin',
+    'label' => 'Shidler Undergraduate',
+    'picture' => 'https://github.com/kisnan/kisnan.github.io/blob/master/images/Kisnan.jpg?raw=true',
+    'email' => 'qiyanl@hawaii.edu',
+    'phone' => '808-439-4565',
+    'website' => 'https://kisnan.github.io',
+    'summary' => 'My name is Qiyan Lin, and I am currently studying MIS in University of Hawaii at Manoa.',
+    'location' => 
+    array (
+      'address' => '',
+      'postalCode' => '96822',
+      'city' => 'Honolulu',
+      'countryCode' => 'USA',
+      'region' => 'Hawaii',
+    ),
+    'profiles' => 
+    array (
+      0 => 
+      array (
+        'network' => 'github',
+        'username' => 'kisnan',
+        'url' => 'http://github.com/kisnan',
+      ),
+      1 => 
+      array (
+        'network' => 'instagram',
+        'username' => 'lumkeiyin',
+        'url' => 'http://instagram.com/lumkeiyin',
+      ),
+    ),
+  ),
+  'interests' => 
+  array (
+    0 => 
+    array (
+      'name' => 'Photography',
+      'keywords' => 
+      array (
+      ),
+    ),
+    1 => 
+    array (
+      'name' => 'Hiking',
+      'keywords' => 
+      array (
+      ),
+    ),
+    2 => 
+    array (
+      'name' => 'Computer Science',
+      'keywords' => 
+      array (
+      ),
+    ),
+  ),
+  'skills' => 
+  array (
+    0 => 
+    array (
+      'name' => 'Languages and Frameworks',
+      'level' => '',
+      'keywords' => 
+      array (
+        0 => 'C',
+        1 => 'C++',
+        2 => 'Java',
+        3 => 'Javascript',
+        4 => 'Assembly',
+        5 => 'Common Lisp',
+      ),
+    ),
+    1 => 
+    array (
+      'name' => 'Toolsets/OS',
+      'level' => '',
+      'keywords' => 
+      array (
+        0 => 'MacOS',
+        1 => 'Ubuntu',
+        2 => 'Git/GitHub',
+        3 => 'g++',
+        4 => 'TI LaunchPad',
+      ),
+    ),
+  ),
+  'education' => 
+  array (
+    0 => 
+    array (
+      'institution' => 'University of Hawaii, Honolulu, HI',
+      'area' => 'Management Information System (expected Fall,2021)',
+      'studyType' => 'B.S.',
+      'startDate' => '2021-01-13',
+      'endDate' => 'Present',
+      'gpa' => '',
+      'courses' => 
+      array (
+      ),
+    ),
+  ),
+  'work' => 
+  array (
+    0 => 
+    array (
+      'company' => 'Shabuya, Hawaii',
+      'position' => 'Server',
+      'website' => '',
+      'startDate' => 'Aug 1st, 2020',
+      'endDate' => 'Present',
+      'summary' => '',
+      'highlights' => 
+      array (
+        0 => '',
+      ),
+    ),
+  ),
+  'volunteer' => 
+  array (
+    0 => 
+    array (
+      'organization' => 'Center for Renewable Energy and Island Sustainability',
+      'website' => 'http://manoa.hawaii.edu/reis',
+      'position' => 'Software Developer',
+      'startDate' => '2016-01-01',
+      'endDate' => 'Present',
+      'summary' => 'Lead developer for weather sensing project',
+      'highlights' => 
+      array (
+        0 => 'Design firmware for distributed weather sensor network',
+        1 => 'Maintain custom data collection and storage infrastructure',
+      ),
+    ),
+  ),
+  'awards' => 
+  array (
+  ),
+  'references' => 
+  array (
+    0 => 
+    array (
+      'name' => 'Available upon request',
+      'reference' => '',
+    ),
+  ),
+)
