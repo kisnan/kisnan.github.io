@@ -13,18 +13,18 @@
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
-    },
+    }
     "profiles": [
       {
         "network": "github",
         "username": "kisnan",
         "url": "http://github.com/kisnan"
-      },
+      }
       {
         "network": "linkedin",
         "username": "Qiyan Lin",
         "url": "https://www.linkedin.com/in/qiyan-lin-582007204/"
-      },
+      }
       
       {
         "network": "instagram",
@@ -32,7 +32,7 @@
         "url": "http://instagram.com/lumkeiyin"
       }
     ]
-  },
+  }
   "interests": [
     {
       "name": "Coding",
@@ -40,18 +40,18 @@
         "Arduino",
         "TI MSP430"
       ]
-    },
+    }
     {
       "name": "Hiking",
       "keywords": [
       ]
-    },
+    }
     {
       "name": "Photography",
       "keywords": [
       ]
     }
-  ],
+  ]
   "skills": [
     {
       "name": "Languages and Frameworks",
@@ -64,7 +64,7 @@
         "Assembly",
         "Common Lisp"
       ]
-    },
+    }
     {
       "name": "Toolsets/OS",
       "level": "",
@@ -76,7 +76,7 @@
         "TI LaunchPad"
       ]
     }
-  ],
+  ]
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
@@ -88,7 +88,7 @@
       "courses": [
       ]
     }
-  ],
+  ]
   "work": [
     {
       "company": "Shabuya",
@@ -100,9 +100,9 @@
       "highlights": [
         
       ]
-    },
+    }
     
-  ],
+  ]
   "volunteer": [
     {
       "organization": "Center for Renewable Energy and Island Sustainability",
@@ -115,7 +115,7 @@
         "Design firmware for distributed weather sensor network",
         "Maintain custom data collection and storage infrastructure"
       ]
-    },
+    }
     {
       "organization": "",
       "website": "",
@@ -129,21 +129,21 @@
         "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
     }
-  ],
+  ]
   "awards": [
     {
       "title": "B+ Scholarship",
       "date": "2013-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
+    }
     {
       "title": "First place",
       "date": "2015",
       "awarder": "University of Hawaii Micromouse Competition",
       "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
-  ],
+  ]
   "references": [
     {
       "name": "Available upon request",
