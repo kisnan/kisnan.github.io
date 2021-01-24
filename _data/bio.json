@@ -1,19 +1,19 @@
 {
    "basics":{
       "name":"Qiyan Lin"
-      "label":"Shidler Undergraduate"
+      "label":"Shidler Undergraduate",
       "picture":"https://github.com/kisnan/kisnan.github.io/blob/master/images/Kisnan.jpg?raw=true"
       "email":"qiyanl@hawaii.edu"
       "phone":"808-439-4565"
-      "website":"https://kisnan.github.io"
+      "website":"https://kisnan.github.io",
       "summary":"My name is Qiyan Lin, and I am currently studying MIS in University of Hawaii at Manoa."
       "location":{
-         "address":""
-         "postalCode":"96817"
+         "address":"",
+         "postalCode":"96822"
          "city":"Honolulu"
          "countryCode":"USA"
          "region":"Hawaii"
-      }
+      },
       "profiles":[
          {
             "network":"github"
@@ -33,7 +33,7 @@
          "keywords":[
             
          ]
-      },
+      }
       {
          "name":"Hiking"
          "keywords":[
@@ -44,6 +44,31 @@
          "name":"Computer Science"
          "keywords":[
             
+         ]
+      }
+   ]
+   "skills":[
+      {
+         "name":"Languages and Frameworks"
+         "level":""
+         "keywords":[
+            "C"
+            "C++"
+            "Java"
+            "Javascript"
+            "Assembly"
+            "Common Lisp"
+         ]
+      },
+      {
+         "name":"Toolsets/OS"
+         "level":""
+         "keywords":[
+            "MacOS"
+            "Ubuntu"
+            "Git/GitHub"
+            "g++"
+            "TI LaunchPad"
          ]
       }
    ]
@@ -74,7 +99,18 @@
       }
    ]
    "volunteer":[
-      
+      {
+         "organization":"Center for Renewable Energy and Island Sustainability"
+         "website":"http://manoa.hawaii.edu/reis"
+         "position":"Software Developer"
+         "startDate":"2016-01-01"
+         "endDate":"Present"
+         "summary":"Lead developer for weather sensing project"
+         "highlights":[
+            "Design firmware for distributed weather sensor network"
+            "Maintain custom data collection and storage infrastructure"
+         ]
+      }
    ]
    "awards":[
       
