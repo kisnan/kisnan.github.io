@@ -35,17 +35,19 @@
 	"interests": [{
 			"name": "Coding",
 			"keywords": [
-				"Arduino",
-				"TI MSP430"
+				"Javascipt",
+				"Multiplatform"
 			]
 		},
 		{
 			"name": "Hiking",
-			"keywords": []
+			"keywords": [
+			]
 		},
 		{
 			"name": "Photography",
-			"keywords": []
+			"keywords": [
+			]
 		}
 	],
 	"skills": [{
