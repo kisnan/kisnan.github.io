@@ -1,89 +1,88 @@
 {
    "basics":{
-      "name":"Qiyan Lin",
-      "label":"Shidler Undergraduate",
-      "picture":"https://github.com/kisnan/kisnan.github.io/blob/master/images/Kisnan.jpg?raw=true",
-      "email":"qiyanl@hawaii.edu",
-      "phone":"808-439-4565",
-      "website":"https://kisnan.github.io",
-      "summary":"My name is Qiyan Lin, and I am currently studying MIS in University of Hawaii at Manoa.",
+      "name":"Qiyan Lin"
+      "label":"Shidler Undergraduate"
+      "picture":"https://github.com/kisnan/kisnan.github.io/blob/master/images/Kisnan.jpg?raw=true"
+      "email":"qiyanl@hawaii.edu"
+      "phone":"808-439-4565"
+      "website":"https://kisnan.github.io"
+      "summary":"My name is Qiyan Lin, and I am currently studying MIS in University of Hawaii at Manoa."
       "location":{
-         "address":"",
-         "postalCode":"96817",
-         "city":"Honolulu",
-         "countryCode":"USA",
-         "region":"Hawaii",
-      },
+         "address":""
+         "postalCode":"96817"
+         "city":"Honolulu"
+         "countryCode":"USA"
+         "region":"Hawaii"
+      }
       "profiles":[
          {
-            "network":"github",
-            "username":"kisnan",
-            "url":"http://github.com/kisnan",
-         },
+            "network":"github"
+            "username":"kisnan"
+            "url":"http://github.com/kisnan"
+         }
          {
-            "network":"instagram",
-            "username":"lumkeiyin",
-            "url":"http://instagram.com/lumkeiyin",
+            "network":"instagram"
+            "username":"lumkeiyin"
+            "url":"http://instagram.com/lumkeiyin"
          }
       ]
-   },
+   }
    "interests":[
       {
-         "name":"Photography",
+         "name":"Photography"
          "keywords":[
             
          ]
       },
       {
-         "name":"Hiking",
+         "name":"Hiking"
          "keywords":[
             
          ]
       },
       {
-         "name":"Computer Science",
+         "name":"Computer Science"
          "keywords":[
             
          ]
-      },
-   ],
+      }
+   ]
    "education":[
       {
-         "institution":"University of Hawaii, Honolulu, HI",
-         "area":"Management Information System (expected Fall,2021)",
-         "studyType":"B.S.",
-         "startDate":"2021-01-13",
-         "endDate":"Present",
-         "gpa":"",
+         "institution":"University of Hawaii, Honolulu, HI"
+         "area":"Management Information System (expected Fall,2021)"
+         "studyType":"B.S."
+         "startDate":"2021-01-13"
+         "endDate":"Present"
+         "gpa":""
          "courses":[
             
          ]
-      },
-   ],
+      }
+   ]
    "work":[
       {
-         "company":"Shabuya, Hawaii",
-         "position":"Server",
-         "website":"",
-         "startDate":"Aug 1st, 2020",
-         "endDate":"Present",
-         "summary":"",
+         "company":"Shabuya, Hawaii"
+         "position":"Server"
+         "website":""
+         "startDate":"Aug 1st, 2020"
+         "endDate":"Present"
+         "summary":""
          "highlights":[
             ""
          ]
-      },
-   ],
+      }
+   ]
    "volunteer":[
       
-   ],
+   ]
    "awards":[
       
-   ],
+   ]
    "references":[
       {
-         "name":"Available upon request",
-         "reference":"",
+         "name":"Available upon request"
+         "reference":""
       }
    ]
 }
-
