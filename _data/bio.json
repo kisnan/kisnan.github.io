@@ -35,8 +35,8 @@
 	"interests": [{
 			"name": "Coding",
 			"keywords": [
-				"Javascript",
-				"Multiplatform"
+				"Arduino",
+				"TI MSP430"
 			]
 		},
 		{
@@ -45,25 +45,22 @@
 		},
 		{
 			"name": "Photography",
-			"keywords": [
-				"Landscape"
-				"Sony A7rII"
-			]
+			"keywords": []
 		}
 	],
 	"skills": [{
 			"name": "Photo Editing",
 			"level": "",
 			"keywords": [
-				"Photoshop",
+				"Photoshop"
 			]
 		},
 		{
 			"name": "Video Editing",
 			"level": "",
 			"keywords": [
-				"Cinematic videography",
-				"Final Cut Pro",
+				"Cinematic",
+				"FInal Cut Pro"
 			]
 		}
 	],
@@ -85,9 +82,13 @@
 		"summary": ""
 
 	}],
-	"volunteer": [
+	"volunteer": [{
+		}
 	],
-	"awards": 
+	"awards": [{
+			
+		}
+	],
 	"references": [{
 		"name": "Available upon request",
 		"reference": ""
