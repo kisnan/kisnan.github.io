@@ -1,11 +1,11 @@
 ---
 layout: essay
 type: essay
-title: ITM 352 Introduction
+title: E1 UI Basic 
 # All dates must be YYYY-MM-DD format!
 date: 2021-01-14
 labels:
-  - Self introduction
+  - E1 
   - ITM
 ---
 
