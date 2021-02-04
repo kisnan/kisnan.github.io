@@ -1,13 +1,14 @@
 ---
 layout: essay
 type: essay
-title: E1: UI Basic
+title: ITM 352 Introduction
 # All dates must be YYYY-MM-DD format!
-date: 2021-02-02
+date: 2021-01-14
 labels:
-  - BrowserHistory
+  - Self introduction
   - ITM
 ---
+
 
 BrowserHitstory1 was my first time coding without the instruction because I didn’t know Professor Port has a upload video on the Laulima. All I have are the screencast on Laulima and doing research online while working with the assignment. Well, it all because I didn’t know there is a BrowerHistory1 screencast was upload it to YouTube. If I knew it, my whole workflow must be more efficient. However, there are server problems that I want to address here while I was working on my code. First of all, when I first get start with my code, I forgot to save it frequently in order to see the progress. I was confuse there is nothing loading on my browser after I enable with my server. I spend a lot of time to double checking everything on my port and my url. Take me more than 30 minutes to figure out there is nothing loading on my browser because I did not save my code. I think this is one of my advice for vs code beginner to save your work frequently. Second thing that I want to mention about was the try copy the code as possible. While working on my code, I tend to type in everything to the to the VS code because I thought that would be more precise for copying. However, I realized that if I could finish one section first, I can copy and paste my code to the other section and replace the information as required. It could help me to save a lot of time on working on the BrowserHistory2 and BrowserHistory3. Lastly, CSS is every efficient coding for similar style. I couldn’t use CSS very well at the beginning, and I could only add the stylesheet at the end of my code. However, when I was working on my BrowserHistory2 and BrowserHistory3, I found that was way convenience to standardize my html website.
 
