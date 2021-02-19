@@ -5,7 +5,7 @@ title: E2 Invoice
 # All dates must be YYYY-MM-DD format!
 date: 2021-02-18
 labels:
-  - E1 
+  - E2 
   - ITM
 ---
 
