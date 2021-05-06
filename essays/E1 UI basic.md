@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: E1 UI Basic 
+title: E2 UI Basic 
 # All dates must be YYYY-MM-DD format!
 date: 2021-01-14
 labels:
