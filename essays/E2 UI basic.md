@@ -5,7 +5,7 @@ title: E2 UI Basic
 # All dates must be YYYY-MM-DD format!
 date: 2021-01-14
 labels:
-  - E1 
+  - E2 
   - ITM
 ---
 
