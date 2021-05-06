@@ -1,11 +1,11 @@
 ---
 layout: essay
 type: essay
-title: E2 Invoice WOD
+title: E3 Invoice WOD
 # All dates must be YYYY-MM-DD format!
 date: 2021-02-18
 labels:
-  - E2 
+  - E3 
   - ITM
 ---
 
